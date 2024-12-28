@@ -1,4 +1,4 @@
-# Twitch chat tts converter
+# Twitch chat - responsive GPT tts generator
 
 this program extracts messages from twitch chat and passes them to GPT.
 Answer of the GPT will be automatically converted into mp3 file, and then will be played.
