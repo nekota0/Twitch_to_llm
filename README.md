@@ -6,4 +6,4 @@ Answer of the GPT will be automatically converted into mp3 file, and then will b
 ## how to use
 set your api keys into the file.
 this program use openai's agent.
-you have to generate agent before starting.
+you have to generate assistant before starting.
